@@ -1,0 +1,48 @@
+.colmncustomStyle {
+  margin: 0;
+  padding: 0;
+}
+
+#userName {
+  height: 80px;
+  background-color: #23245A;
+}
+
+#userDetail {
+}
+
+#usermailNu {
+  padding-left: 38px;
+  color:#5c92ff;
+  padding-top: 8px;
+}
+
+#userList {
+  margin: 0;
+  padding: 20px 10px 20px 54px;
+}
+
+#userList li {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+#userName {
+  margin: 0;
+  padding-left: 20px;
+}
+
+#NameSty {
+  color: white;
+}
+
+#nameAnddesi {
+  display: block;
+}
+
+#nameAnddesiCont {
+  color: white;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+

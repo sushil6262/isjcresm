@@ -1,0 +1,205 @@
+/*ipad devices*/
+@media only screen and (min-width:751px) and (max-width:995px) {
+.pd-1{
+	padding-top: 0px;
+}
+.banner-section, .view-banner-section, .about-banner-section, .author-banner-section, .editorial-banner-section, .faq-banner-section, .processing-banner-section, .contact-banner-section{
+	height: auto;
+    padding-bottom: 30px;
+    background-size: cover;
+}
+.bottom-padding{
+	padding-bottom: 30px;
+}
+.ipad-padding{
+	margin-top: 30px;
+}
+}
+
+/* Small Devices, Tablets */
+@media screen and (max-width:700px) {  
+.mobi-only{
+	display: block;
+}
+.devi-only{
+	display: none;
+}
+.mobi-only1{
+	display: inline-block;
+}
+.terms-section p{
+	display: block;
+}
+.header-section ul li a {
+	display: inline-block;
+}
+.banner-section, .view-banner-section, .about-banner-section, .author-banner-section, .editorial-banner-section, .faq-banner-section, .processing-banner-section, .contact-banner-section{
+	height: auto;
+    padding-bottom: 30px;
+    background-size: cover;
+}
+.faq i {
+    right: 15px;
+}
+.faq .narrowchart p{
+	padding: 20px 34px 20px 20px;
+}
+.remove-break br{
+	display: none;
+}
+.impact-fact{
+	background: url(../images/imfact-bg.png) 12px 41px no-repeat #f9a632 / 93% auto;
+}
+.copyright span{
+	text-align: center;
+    display: block;
+    float: unset!important;
+    padding: 10px;
+}
+.copyright{
+	text-align: center;
+}
+table{
+    width: 100%;
+}
+.terms-section{
+	padding-left: 20px;
+}
+.content{
+	bottom: 155px;
+}
+}
+
+/* Extra Small Devices, Phones */ 
+@media screen and (max-width:420px) {  
+.member-btn{
+	margin-left: 0px;
+} 
+.text-center1{
+	text-align: center;
+}
+.navbar-collapse{
+	width: 100%;
+}
+.padding-top-31 {
+    padding-top: 30px;
+}
+.navbar-form{
+	border-top: 0px solid transparent;
+    border-bottom: 1px solid transparent;
+    box-shadow:none;
+}
+.mt-7{
+	margin-top: 70px;
+}
+.banner-section h2 {
+    padding-top: 66px;
+    line-height: 40px;
+    font-size: 22px;
+    padding: 66px 5px 0 5px;
+}
+.banner-section h4 {
+    opacity: 0.7;
+    line-height: 25px;
+    font-size: 16px;
+}
+.banner-blue-bg{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.pd-1{
+	padding-top: 20px;
+}
+.pd-bt-1{
+	padding-bottom: 20px;
+}
+.sec-padding{
+	padding: 30px 0;
+}
+.res-pd{
+	padding-top: 20px;
+}
+.res-pd1{
+	padding-top: 40px;
+}
+.footer-padding {
+    padding: 60px 0px 0px 26px;
+}
+.m-t-2{
+	margin-top: 30px;
+}
+.m-t-1{
+	margin-top: 20px;
+}
+.box2{
+	height: 452px;
+}
+.box6 {
+    height: 190px;
+}
+.box7{
+    height: 305px;
+}
+.box8{
+    height: 150px;
+}
+.box5 {
+    height: 246px;
+}
+.box3{
+	height: 527px;
+}
+.box4 {
+    height: 250px;
+}
+.res-box{
+	height: 470px;
+	margin-bottom: 30px;    
+	padding: 30px 0;
+}
+.Aim-section .no-left-padding{
+	padding:15px;
+}
+.res-padd{
+	padding: 60px 0; 
+}
+.boxes .span1{
+	padding-left: 15px;
+}
+.res-food{
+	padding-bottom: 41px;
+}
+.owl-theme .owl-dots, .owl-theme .owl-nav {
+    position: absolute;
+    left: 118px;
+    top: 396px;
+}
+.about-btn{
+	margin-right: 0px;
+}
+.visi {
+    visibility: hidden;
+    padding: 0!important;
+}
+.left-side{
+	text-align: left;
+}
+.i1{
+	right: 120px;
+	left: unset!important;
+}
+.i2{
+	right: 114px;
+	left: unset!important;
+}
+.i3{
+	right: 100px;
+	left: unset!important;
+}
+.editorial .nav-tabs>li {
+    width: 100%;
+}
+.header-section ul li ul {
+    left: 5%;
+}
+}

@@ -1,0 +1,82 @@
+.cust_bloglistintro h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+}
+
+@media (max-width:767px) {
+  .cust_bloglistintro h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.cust_bloglistintro {
+  max-width:500px;
+  margin:0 auto;
+}
+
+.cust_blogteaser {
+  text-align:center;
+  padding-top:40px;
+  min-height:425px;
+  box-shadow:0 0 10px 1px #ccc;
+}
+
+.cust_blogteaser p {
+  font-size:14px;
+}
+
+.cust_blogteaser h3 {
+  margin-top:20px;
+  font-size:20px;
+  font-weight:bold;
+}
+.profileContainer{
+  background-color: #eee;
+}
+
+.customrow {
+  margin:20px;
+}
+
+.customColumn {
+  box-shadow:0 0 10px 2px #ccc;
+  border-radius:8px;
+  margin:12px;
+  padding: 4px;
+  background-color: white;
+  min-height: 222px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.line {
+  background-color: rgb(44, 44, 44);
+}
+
+.imgeStyle {
+  width:100px;
+  height:100px;
+  margin-bottom:12px;
+  margin-top:12px;
+  background-size:cover;
+  border-radius:50%;
+  position:relative;
+  left:50%;
+  transform:translateX(-50%);
+}
+.btnCenter{
+  position:relative;
+  left:50%;
+  transform:translateX(-50%);background-color: transparent;
+  color: royalblue;
+  border: 1px solid royalblue;
+  border-radius: 25px;
+  margin-bottom: 12px;
+}
+.btnCenter:hover{
+  background-color: royalblue;
+}
+
