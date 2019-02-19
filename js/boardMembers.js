@@ -63,7 +63,7 @@ document.getElementById('profileDetail').innerHTML = boardMembers.map(board =>
         <div class="card customColumn">
         <div class="card-body">
             <p class="text-center card-title"><strong>${board.name}</strong></p>
-            <hr/>
+            <hr style="border-top:1px solid #23245a"/>
             <h6 class="text-center text-muted card-subtitle mb-2">${board.designation}</h6>
             <p class="text-center">${board.Affiliation}</p>
             <p class="text-center">${board.place}  ${board.country}</p>
