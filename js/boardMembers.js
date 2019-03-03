@@ -56,6 +56,9 @@ var boardMembers = [
     { name: "Mr.Murali Mahadevan", designation: "System Architect", Affiliation: "IBM-India Ltd", avatar: "/images/",place:"Bangalore",country: "India" },
     { name: "Dr.Jitendranath Mungara", designation: "Professor and HOD", Affiliation: "New Horizon College of Engineering", avatar: "/images/",place:"Bangalore",country: "India" },
     { name: "Dr.Sujitha", designation: "Associate Professor", Affiliation: "New Horizon College of Engineering", avatar: "/images/",place:"Bangalore",country: "India" },
+    { name: "Dr.Jitendranath Mungara", designation: "Professor and HOD", Affiliation: "New Horizon College of Engineering", avatar: "/images/",place:"Bangalore",country: "India" },
+    { name: "G Jims John Wessley", designation: "Assistant Professor", Affiliation: "Karunya Institute of Technology and Sciences", avatar: "/images/",place:"Coimbatore",country: "India" },
+    { name: "Dr.Yuvaraju Chinnan", designation: "Professor & Director", Affiliation: "Amrita Sai Institute of Science and Technology (Autonomous), Paritala", avatar: "/images/",place:"Andhra Pradesh",country: "India" },
 ]
 //dynamic call to create user profile
 document.getElementById('profileDetail').innerHTML = boardMembers.map(board =>
